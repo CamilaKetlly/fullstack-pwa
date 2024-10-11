@@ -1,0 +1,16 @@
+{
+  "name": "Cadastro de Partidas de Valorant",
+  "short_name": "Valorant Matches",
+  "description": "Um aplicativo para cadastro de partidas de Valorant",
+  "icons": [
+      {
+          "src": "icons/icon-192x192.png",
+          "sizes": "192x192",
+          "type": "image/png"
+      }
+  ],
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#4CAF50"
+}
